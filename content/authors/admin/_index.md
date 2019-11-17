@@ -5,25 +5,26 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Computer Science and Applications
+    institution: Virginia Tech
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MS in Computer Science
+    institution: University of Windsor
+    year: 2003
+  - course: MS in Applied Mathematics
+    institution: Michigan Techinoligcal University
+    year: 2000
+
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computational Science
+- Data Science
+- Uncertainty Quantification 
 name: Haiyan Cheng
 organizations:
 - name: Willamette University
   url: ""
-role: Professor of Computer Science
+role: Associate Professor of Computer Science
 social:
 - icon: twitter
   icon_pack: fab
@@ -43,6 +44,6 @@ user_groups:
 - Visitors
 ---
 
-Haiyan Cheng is an assocaite professor of Computer Science at the Willamette University. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Haiyan Cheng is an assocaite professor of Computer Science at the Willamette University. Her research interests include computational science, data science, and predictive anlaysis for large scale simulaiton modeling. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+
